@@ -8,7 +8,6 @@ Welcome to my HackerRank Java Solutions repository! Here, you'll find Java solut
 - [Problem Sets](#problem-sets)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
