@@ -21,6 +21,7 @@ Below are the problem sets included in this repository:
 2. [JavaLoops1.java](JavaLoops1.java): Solutions for problems related to basic loop constructs.
 3. [JavaOutputFormatting.java](JavaOutputFormatting.java): Solutions for problems involving output formatting.
 4. [Java Loops 2.java](Java%20Loops%202.java): Solutions for problems related to more advanced loop constructs.
+5. [PrintSeries.java](PrintSeries.java)  Solutions for problems related to more advanced print Series..
 
 Feel free to explore each problem set to find solutions and explanations.
 
