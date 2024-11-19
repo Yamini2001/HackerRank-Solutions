@@ -28,7 +28,7 @@ Feel free to explore each problem set to find solutions and explanations.
 
 ## How to Use
 
-To use this repository, simply clone or download it to your local machine. You can then browse the solutions to individual problems, study the code, and even contribute your own solutions if you'd like!
+To use this repository, simply clone or download it to your local machine. You can then browse the solutions to individual problems, study the code, and contribute your solutions if you'd like!
 
 ## Contributing
 
