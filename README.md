@@ -20,14 +20,15 @@ Below are the problem sets included in this repository:
 1. [InputOutput.java](InputOutput.java): Solutions for problems related to Input/Output.
 2. [JavaLoops1.java](JavaLoops1.java): Solutions for problems related to basic loop constructs.
 3. [JavaOutputFormatting.java](JavaOutputFormatting.java): Solutions for problems involving output formatting.
-4. [Java Loops 2.java](Java%20Loops%202.java): Solutions for problems related to more advanced loop constructs.
-5. [PrintSeries.java](PrintSeries.java)  Solutions for problems related to more advanced print Series..
+4. [Java Loops 2. java](Java%20Loops%202.java): Solutions for problems related to more advanced loop constructs.
+5. [PrintSeries.java](PrintSeries.java)  Solutions for problems related to more advanced print Series.
+6. [minMax.java](minMax.java)  Solutions for problems related to finding the minimum and maximum elements.
 
 Feel free to explore each problem set to find solutions and explanations.
 
 ## How to Use
 
-To use this repository, simply clone or download it to your local machine. You can then browse the solutions to individual problems, study the code, and even contribute your own solutions if you'd like!
+To use this repository, simply clone or download it to your local machine. You can then browse the solutions to individual problems, study the code, and contribute your solutions if you'd like!
 
 ## Contributing
 
@@ -36,4 +37,6 @@ Contributions are welcome! If you have a new solution to a problem or want to su
 
 Happy coding!
 
+ 
 
+ 
