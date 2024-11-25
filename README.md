@@ -24,6 +24,7 @@ Below are the problem sets included in this repository:
 5. [PrintSeries.java](PrintSeries.java)  Solutions for problems related to more advanced print Series.
 6. [minMax.java](minMax.java)  Solutions for problems related to finding the minimum and maximum elements.
 7. [maxMatrixSum.java](maxMatrixSum.java)  Solutions for problems related to finding the maximum matrix sum.
+8. [InsertPosition.java](InsertPosition.java) Solutions for problems related to insert the position.
 
 Feel free to explore each problem set to find solutions and explanations.
 
