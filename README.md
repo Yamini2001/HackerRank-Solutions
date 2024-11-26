@@ -25,6 +25,7 @@ Below are the problem sets included in this repository:
 6. [minMax.java](minMax.java)  Solutions for problems related to finding the minimum and maximum elements.
 7. [maxMatrixSum.java](maxMatrixSum.java)  Solutions for problems related to finding the maximum matrix sum.
 8. [InsertPosition.java](InsertPosition.java) Solutions for problems related to insert the position.
+9. [Zigzag.java](Zigzag.java) Solutions for problems related to find the zigzag conversion.
 
 Feel free to explore each problem set to find solutions and explanations.
 
