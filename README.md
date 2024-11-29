@@ -27,6 +27,7 @@ Below are the problem sets included in this repository:
 8. [InsertPosition.java](InsertPosition.java) Solutions for problems related to insert the position.
 9. [Zigzag.java](Zigzag.java) Solutions for problems related to find the zigzag conversion.
 10. [ValidParenthesis.java](ValidParenthesis.java) Solutions for problems related to finding the valid parenthesis.
+11. [GenerateParenthesis.java](GenerateParenthesis.java) Solutions for problems related to generate parenthesis.
 
 Feel free to explore each problem set to find solutions and explanations.
 
