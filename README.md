@@ -29,6 +29,7 @@ Below are the problem sets included in this repository:
 10. [ValidParenthesis.java](ValidParenthesis.java) Solutions for problems related to finding the valid parenthesis.
 11. [GenerateParenthesis.java](GenerateParenthesis.java) Solutions for problems related to generate parenthesis.
 12. [RemoveDuplicates.java](RemoveDuplicates.java) Solutions for problems related to removing duplicates from an array.
+13. [NDoubleExit.java](NDoubleExit.java) Solutions for problems related to checking whether the N double exists.
 
 Feel free to explore each problem set to find solutions and explanations.
 
