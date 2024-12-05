@@ -32,6 +32,7 @@ Below are the problem sets included in this repository:
 13. [NDoubleExit.java](NDoubleExit.java) Solutions for problems related to checking whether the N double exists.
 14. [reverseInteger.java](reverseInteger.java) Solutions for problems related to reversing the integer.
 15. [LongestCommonPrefix.java](LongestCommonPrefix.java) Solutions for problems related to finding the longest common prefix.
+16. [MovePieceString.java](MovePieceString.java) Solutions for problems related to move pieces to obtain a string.
 
 
 Feel free to explore each problem set to find solutions and explanations.
