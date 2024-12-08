@@ -35,6 +35,7 @@ Below are the problem sets included in this repository:
 16. [MovePieceString.java](MovePieceString.java) Solutions for problems related to moving pieces to obtain a string.
 17. [AddTwoNumber.java](AddTwoNumber.java) Solutions for problems related to add two numbers.
 18. [countAndSay.java](countAndSay.java) Solutions for problems related to count and say to the sequence of digits string.
+19. [reverseKNode.java](reverseKNode.java) Solutions for problems related to reverse nodes in k-group.
 
 Feel free to explore each problem set to find solutions and explanations.
 
