@@ -34,6 +34,7 @@ Below are the problem sets included in this repository:
 15. [LongestCommonPrefix.java](LongestCommonPrefix.java) Solutions for problems related to finding the longest common prefix.
 16. [MovePieceString.java](MovePieceString.java) Solutions for problems related to moving pieces to obtain a string.
 17. [AddTwoNumber.java](AddTwoNumber.java) Solutions for problems related to add two numbers.
+18. [countAndSay.java](countAndSay.java) Solutions for problems related to count and say to the sequence of digits string.
 
 Feel free to explore each problem set to find solutions and explanations.
 
