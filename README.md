@@ -37,6 +37,7 @@ Below are the problem sets included in this repository:
 18. [countAndSay.java](countAndSay.java) Solutions for problems related to count and say to the sequence of digits string.
 19. [reverseKNode.java](reverseKNode.java) Solutions for problems related to reverse nodes in k-group.
 20. [Power.java](Power.java) Solutions for problems related to power x raised to power n.
+21. [LongestSubstring.java](LongestSubstring.java) Solutions for Longest special substring problems occur thrice.
 
 
 Feel free to explore each problem set to find solutions and explanations.
