@@ -36,6 +36,8 @@ Below are the problem sets included in this repository:
 17. [AddTwoNumber.java](AddTwoNumber.java) Solutions for problems related to add two numbers.
 18. [countAndSay.java](countAndSay.java) Solutions for problems related to count and say to the sequence of digits string.
 19. [reverseKNode.java](reverseKNode.java) Solutions for problems related to reverse nodes in k-group.
+20. [Power.java](Power.java) Solutions for problems related to power x raised to power n.
+
 
 Feel free to explore each problem set to find solutions and explanations.
 
