@@ -40,6 +40,7 @@ Below are the problem sets included in this repository:
 21. [LongestSubstring.java](LongestSubstring.java) Solutions for Longest special substring problems occur thrice.
 22.  [MaximumBeautyArray.java](MaximumBeautyArray.java) Solutions for Maximum beauty of an array.
 23.  [GiftForRichestPile.java](GiftForRichestPile.java) Solutions for Take Gifts from the Richest Pile.
+24.  [PalindromeNumber.java](PalindromeNumber.java) Solutions to find the palindrome number.
 
 
 
