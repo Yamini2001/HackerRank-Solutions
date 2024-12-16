@@ -43,6 +43,8 @@ Below are the problem sets included in this repository:
 24.  [PalindromeNumber.java](PalindromeNumber.java) Solutions to find the palindrome number.
 25.  [ContinuousSubarrays.java](ContinuousSubarrays.java) Solutions to find the continuous subarrays.
 26.  [MaximumAverageRatio.java](MaximumAverageRatio.java) Solutions to find the maximum average pass ratio.
+27.  [GroupAnagrams.java](GroupAnagrams.java) Solutions to find the group anagrams.
+
 
 
 
