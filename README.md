@@ -44,6 +44,7 @@ Below are the problem sets included in this repository:
 25.  [ContinuousSubarrays.java](ContinuousSubarrays.java) Solutions to find the continuous subarrays.
 26.  [MaximumAverageRatio.java](MaximumAverageRatio.java) Solutions to find the maximum average pass ratio.
 27.  [GroupAnagrams.java](GroupAnagrams.java) Solutions to find the group anagrams.
+28.  [RotateImage.java](RotateImage.java) Solutions to find the rotate image.
 
 
 
