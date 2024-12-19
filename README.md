@@ -46,6 +46,7 @@ Below are the problem sets included in this repository:
 27.  [GroupAnagrams.java](GroupAnagrams.java) Solutions to find the group anagrams.
 28.  [RotateImage.java](RotateImage.java) Solutions to find the rotate image.
 29.  [SpiralMatrix.java](SpiralMatrix.java) Solutions to find the spiral matrix.
+30.  [MaxChunksSorted.java](MaxChunksSorted.java) Solutions to find the maximum chunks are sorted.
 
 
 
