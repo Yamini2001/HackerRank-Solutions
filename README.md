@@ -47,6 +47,7 @@ Below are the problem sets included in this repository:
 28.  [RotateImage.java](RotateImage.java) Solutions to find the rotate image.
 29.  [SpiralMatrix.java](SpiralMatrix.java) Solutions to find the spiral matrix.
 30.  [MaxChunksSorted.java](MaxChunksSorted.java) Solutions to find the maximum chunks are sorted.
+31.  [ReverseOddLevelTree.java](ReverseOddLevelTree.java) Solutions to find the reverse odds level binary tree.
 
 
 
