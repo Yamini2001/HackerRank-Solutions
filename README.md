@@ -49,6 +49,7 @@ Below are the problem sets included in this repository:
 30.  [MaxChunksSorted.java](MaxChunksSorted.java) Solutions to find the maximum chunks are sorted.
 31.  [ReverseOddLevelTree.java](ReverseOddLevelTree.java) Solutions to find the reverse odds level binary tree.
 32.   [3SumClosest.java](3SumClosest.java) Solutions to find the 3 sum closest.
+33.   [JumpGame.java](JumpGame.java) Solutions to find the Jump Game.
 
 
 
