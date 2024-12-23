@@ -50,6 +50,7 @@ Below are the problem sets included in this repository:
 31.  [ReverseOddLevelTree.java](ReverseOddLevelTree.java) Solutions to find the reverse odds level binary tree.
 32.   [3SumClosest.java](3SumClosest.java) Solutions to find the 3 sum closest.
 33.   [JumpGame.java](JumpGame.java) Solutions to find the Jump Game.
+34.    [SymmetricTree.java](SymetricTree.java) Solutions to find the Symmetric tree.
 
 
 
