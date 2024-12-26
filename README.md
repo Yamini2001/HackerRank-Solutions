@@ -52,6 +52,7 @@ Below are the problem sets included in this repository:
 33.   [JumpGame.java](JumpGame.java) Solutions to find the Jump Game.
 34.   [SymmetricTree.java](SymetricTree.java) Solutions to find the Symmetric tree.
 35.   [PascalTriangle.java](PascalTriangle.java) Solutions to find the pascal triangle.
+36.   [PeakElement.java](PeakElement.java) Solutions to find the peak element.
 
 
 
