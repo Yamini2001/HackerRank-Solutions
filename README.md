@@ -54,6 +54,7 @@ Below are the problem sets included in this repository:
 35.   [PascalTriangle.java](PascalTriangle.java) Solutions to find the pascal triangle.
 36.   [PeakElement.java](PeakElement.java) Solutions to find the peak element.
 37.   [TargetSum.java](TargetSum.java) Solutions to find the target sum.
+38.   [SightSeeingPair.java](SightSeeingPair.java) Solutions to find the best sightseeing pair.
 
 
 
