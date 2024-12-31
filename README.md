@@ -58,6 +58,7 @@ Below are the problem sets included in this repository:
 39.   [IsomorphicStrings.java](IsomorphicStrings.java) Solutions to find the isomorphic strings.
 40.   [BullsAndCows.java](BullsAndCows.java) Solutions to find the bulls and the cows.
 41.   [CountWaysToBuildStrings.java](CountWaysToBuildStrings.java) Solutions to find count ways to build good strings.
+42.   [MinimumCostTicket.java](MinimumCostTicket.java) Solutions to find the minimum cost for the tickets.
 
 
 
