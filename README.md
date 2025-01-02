@@ -60,6 +60,7 @@ Below are the problem sets included in this repository:
 41.   [CountWaysToBuildStrings.java](CountWaysToBuildStrings.java) Solutions to find count ways to build good strings.
 42.   [MinimumCostTicket.java](MinimumCostTicket.java) Solutions to find the minimum cost for the tickets.
 43.   [MissingNumber.java](MissingNumber.java) Solutions to find the missing number.
+44.   [CountVowelsinRange.java](CountVowelsinRange.java) Solutions to find the counts vowels in range.
 
 
 
