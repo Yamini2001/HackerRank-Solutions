@@ -61,6 +61,8 @@ Below are the problem sets included in this repository:
 42.   [MinimumCostTicket.java](MinimumCostTicket.java) Solutions to find the minimum cost for the tickets.
 43.   [MissingNumber.java](MissingNumber.java) Solutions to find the missing number.
 44.   [CountVowelsinRange.java](CountVowelsinRange.java) Solutions to find the counts vowels in range.
+45.   [MultiplyStrings.java](MultiplyStrings.java) Solutions to find the multiply strings.
+
 
 
 
