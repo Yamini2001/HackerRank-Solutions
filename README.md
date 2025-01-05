@@ -63,6 +63,7 @@ Below are the problem sets included in this repository:
 44.   [CountVowelsinRange.java](CountVowelsinRange.java) Solutions to find the counts vowels in range.
 45.   [MultiplyStrings.java](MultiplyStrings.java) Solutions to find the multiply strings.
 46.   [UniquePaths.java](UniquePaths.java) Solutions to find the unique paths.
+47.   [ShiftingLetters.java](ShiftingLetters.java) Solutions to find the shifting letters.
 
 
 
