@@ -64,6 +64,7 @@ Below are the problem sets included in this repository:
 45.   [MultiplyStrings.java](MultiplyStrings.java) Solutions to find the multiply strings.
 46.   [UniquePaths.java](UniquePaths.java) Solutions to find the unique paths.
 47.   [ShiftingLetters.java](ShiftingLetters.java) Solutions to find the shifting letters.
+48.   [ClimbingStairs.java](ClimbingStairs.java) Solutions to find the climbing stairs.
 
 
 
