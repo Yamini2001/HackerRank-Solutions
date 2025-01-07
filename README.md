@@ -65,6 +65,8 @@ Below are the problem sets included in this repository:
 46.   [UniquePaths.java](UniquePaths.java) Solutions to find the unique paths.
 47.   [ShiftingLetters.java](ShiftingLetters.java) Solutions to find the shifting letters.
 48.   [ClimbingStairs.java](ClimbingStairs.java) Solutions to find the climbing stairs.
+49.   [StringMatchingArray.java](StringMatchingArray.java) Solutions to find the string matching in an array.
+
 
 
 
