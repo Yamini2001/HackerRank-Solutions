@@ -67,6 +67,7 @@ Below are the problem sets included in this repository:
 48.   [ClimbingStairs.java](ClimbingStairs.java) Solutions to find the climbing stairs.
 49.   [StringMatchingArray.java](StringMatchingArray.java) Solutions to find the string matching in an array.
 50.   [CalculateSuffixAndPrefix.java](CalculateSuffixAndPrefix.java) Solutions to calculate the suffix and prefix.
+51.   [MergeIntervals.java](MergeIntervals.java) Solutions to calculate the merge intervals.
 
 
 
