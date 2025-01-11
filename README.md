@@ -68,6 +68,11 @@ Below are the problem sets included in this repository:
 49.   [StringMatchingArray.java](StringMatchingArray.java) Solutions to find the string matching in an array.
 50.   [CalculateSuffixAndPrefix.java](CalculateSuffixAndPrefix.java) Solutions to calculate the suffix and prefix.
 51.   [MergeIntervals.java](MergeIntervals.java) Solutions to calculate the merge intervals.
+52.   [WordsSubsets.java](WordsSubsets.java) Solutions to calculate the word subsets.
+53.   [ZigzagConversion.java](ZigzagConversion.java) Solutions to calculate the zigzag conversion.
+
+
+
 
 
 
