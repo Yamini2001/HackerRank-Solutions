@@ -70,6 +70,7 @@ Below are the problem sets included in this repository:
 51.   [MergeIntervals.java](MergeIntervals.java) Solutions to calculate the merge intervals.
 52.   [WordsSubsets.java](WordsSubsets.java) Solutions to calculate the word subsets.
 53.   [ZigzagConversion.java](ZigzagConversion.java) Solutions to calculate the zigzag conversion.
+54.    [Permutations.java](Permutations.java) Solutions to calculate the permutations.
 
 
 
