@@ -71,6 +71,8 @@ Below are the problem sets included in this repository:
 52.   [WordsSubsets.java](WordsSubsets.java) Solutions to calculate the word subsets.
 53.   [ZigzagConversion.java](ZigzagConversion.java) Solutions to calculate the zigzag conversion.
 54.    [Permutations.java](Permutations.java) Solutions to calculate the permutations.
+55.   [MinimumLengthString.java](MinimumLengthString.java) Solutions to calculate the minimum length of string after operations.
+
 
 
 
