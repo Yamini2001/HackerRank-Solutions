@@ -74,6 +74,8 @@ Below are the problem sets included in this repository:
 55.   [MinimumLengthString.java](MinimumLengthString.java) Solutions to calculate the minimum length of string after operations.
 56.   [LengthOfLastWord.java](LengthOfLastWord.java) Solutions to calculate the length of last word.
 57.    [MinimizeXOR.java](MinimizeXOR.java) Solutions to calculate the minimize the XOR.
+58.   [BitwiseXORAllPairings.java](BitwiseXORAllPairings.java) Solutions to calculate the bitwise XOR of all pairings.
+59.    
 
 
 
