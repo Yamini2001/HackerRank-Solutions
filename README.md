@@ -76,6 +76,8 @@ Below are the problem sets included in this repository:
 57.    [MinimizeXOR.java](MinimizeXOR.java) Solutions to calculate the minimize the XOR.
 58.   [BitwiseXORAllPairings.java](BitwiseXORAllPairings.java) Solutions to calculate the bitwise XOR of all pairings.
 59.     [NeighbouringBitwiseXOR.java](NeighbouringBitwiseXOR.java) Solutions to calculate the neighbouring bitwise XOR.
+60.   [RemoveElement.java](RemoveElement.java) Solutions to calculate the remove element.
+61.    [SingleNumber.java](SingleNumber.java) Solutions to calculate the single number.
 
 
 
