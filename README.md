@@ -78,6 +78,8 @@ Below are the problem sets included in this repository:
 59.     [NeighbouringBitwiseXOR.java](NeighbouringBitwiseXOR.java) Solutions to calculate the neighbouring bitwise XOR.
 60.   [RemoveElement.java](RemoveElement.java) Solutions to calculate the remove element.
 61.    [SingleNumber.java](SingleNumber.java) Solutions to calculate the single number.
+62.     [RotateList.java](RotateList.java) Solutions to calculate the rotate list.
+
 
 
 
