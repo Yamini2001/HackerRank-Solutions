@@ -79,6 +79,7 @@ Below are the problem sets included in this repository:
 60.   [RemoveElement.java](RemoveElement.java) Solutions to calculate the remove element.
 61.    [SingleNumber.java](SingleNumber.java) Solutions to calculate the single number.
 62.     [RotateList.java](RotateList.java) Solutions to calculate the rotate list.
+63.     [GridGame.java](GridGame.java) Solutions to calculate the grid game.
 
 
 
