@@ -75,18 +75,12 @@ Below are the problem sets included in this repository:
 56.   [LengthOfLastWord.java](LengthOfLastWord.java) Solutions to calculate the length of last word.
 57.    [MinimizeXOR.java](MinimizeXOR.java) Solutions to calculate the minimize the XOR.
 58.   [BitwiseXORAllPairings.java](BitwiseXORAllPairings.java) Solutions to calculate the bitwise XOR of all pairings.
-59.     [NeighbouringBitwiseXOR.java](NeighbouringBitwiseXOR.java) Solutions to calculate the neighbouring bitwise XOR.
+59.   [NeighbouringBitwiseXOR.java](NeighbouringBitwiseXOR.java) Solutions to calculate the neighbouring bitwise XOR. 
 60.   [RemoveElement.java](RemoveElement.java) Solutions to calculate the remove element.
 61.    [SingleNumber.java](SingleNumber.java) Solutions to calculate the single number.
-62.     [RotateList.java](RotateList.java) Solutions to calculate the rotate list.
-63.     [GridGame.java](GridGame.java) Solutions to calculate the grid game.
-
-
-
-
-
-
-
+62.    [RotateList.java](RotateList.java) Solutions to calculate the rotate list.
+63.  [GridGame.java](GridGame.java) Solutions to calculate the grid game.
+64.   [MapHighestPeak.java](MapHighestPeak.java) Solutions to calculate the map to the highest peak.
 
 
 
