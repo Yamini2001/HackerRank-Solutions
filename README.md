@@ -83,6 +83,8 @@ Below are the problem sets included in this repository:
 64.   [MapHighestPeak.java](MapHighestPeak.java) Solutions to calculate the map to the highest peak.
 65.   [CountServers.java](CountServers.java) Solutions to calculate the count servers that communicate.
 66.   [EventualSafeStates.java](EventualSafeStates.java) Solutions to calculate the eventual safe states.
+67.    [SortColors.java](SortColors.java) Solutions to calculate the sort colors.
+
 
 
 
