@@ -86,6 +86,7 @@ Below are the problem sets included in this repository:
 67.    [SortColors.java](SortColors.java) Solutions to calculate the sort colors.
 68.     [SetMatrixZeroes.java](SetMatrixZeroes.java) Solutions to calculate the set matrix zeroes.
 69.    [CourseSchedule.java](CourseSchedule.java) Solutions to calculate the course schedule.
+70.     [MinimumNumberFish.java](MinimumNumberFish.java) Solutions to calculate the minimum number of fish in a grid.
 
 
 
