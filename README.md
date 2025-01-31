@@ -88,6 +88,8 @@ Below are the problem sets included in this repository:
 69.    [CourseSchedule.java](CourseSchedule.java) Solutions to calculate the course schedule.
 70.   [MinimumNumberFish.java](MinimumNumberFish.java) Solutions to calculate the minimum number of fish in a grid.
 71.   [RedundantConnection.java](RedundantConnection.java) Solutions to calculate the redundant connection.
+72.    [TwoSum.java](TwoSum.java) Solutions to calculate the two sum.
+73.    [4Sum.java](4Sum.java) Solutions to calculate the four sum.
 
 
 
