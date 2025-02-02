@@ -90,6 +90,7 @@ Below are the problem sets included in this repository:
 71.   [RedundantConnection.java](RedundantConnection.java) Solutions to calculate the redundant connection.
 72.    [TwoSum.java](TwoSum.java) Solutions to calculate the two sum.
 73.    [4Sum.java](4Sum.java) Solutions to calculate the four sum.
+74.    [SpecialArray.java](SpecialArray.java) Solutions to calculate the special array.
 
 
 
