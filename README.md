@@ -92,6 +92,8 @@ Below are the problem sets included in this repository:
 73.    [4Sum.java](4Sum.java) Solutions to calculate the four sum.
 74.    [SpecialArray.java](SpecialArray.java) Solutions to calculate the special array.
 75.    [Subsets.java](Subsets.java) Solutions to calculate the subsets.
+76.    [wordSearch.java](wordSearch.java) Solutions to calculate the word search.
+
 
 
 
