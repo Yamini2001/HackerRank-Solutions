@@ -93,6 +93,8 @@ Below are the problem sets included in this repository:
 74.    [SpecialArray.java](SpecialArray.java) Solutions to calculate the special array.
 75.    [Subsets.java](Subsets.java) Solutions to calculate the subsets.
 76.    [wordSearch.java](wordSearch.java) Solutions to calculate the word search.
+77.    [maximumAscendingSubarray.java](maximumAscendingSubarray.java) Solutions to calculate the maximum Ascending Subarray sum.
+
 
 
 
