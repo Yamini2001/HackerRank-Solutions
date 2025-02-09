@@ -96,13 +96,17 @@ Below are the problem sets included in this repository:
 77.    [maximumAscendingSubarray.java](maximumAscendingSubarray.java) Solutions to calculate the maximum Ascending Subarray sum.
 78.    [CombinationSum.java](CombinationSum.java) Solutions to calculate the combination sum.
 79.    [TuplewithSameProduct.java](TuplewithSameProduct.java) Solutions to calculate the tuple with same product.
-80.     [NoDistinctColors.java](NoDistinctColors.java) Solutions to calculate the number of distinct colours among the balls.
+80.    [NoDistinctColors.java](NoDistinctColors.java) Solutions to calculate the number of distinct colours among the balls.
+81.    [NoContainerSystem.java](NoContainerSystem.java) Solutions to calculate the design a number container system.
 
 
 
 
 
 
+
+
+[NoDistinctColors.java](NoDistinctColors.java) Solutions to calculate the number of distinct colours among the balls.
 
 
 
