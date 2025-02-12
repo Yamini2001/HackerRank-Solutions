@@ -101,6 +101,7 @@ Below are the problem sets included in this repository:
 82.    [CountBadPairs.java](CountBadPairs.java) Solutions to calculate the count number of bad pairs.
 83.    [ClearDigits.java](ClearDigits.java) Solutions to calculate the clear digits.
 84.    [RemoveAllOccurence.java](RemoveAllOccurence.java) Solutions to calculate the removal of all occurrences of a string.
+85.    [DivideTwoIntegers.java](DivideTwoIntegers.java) Solutions to calculate the divide two integers.
 
 
 
