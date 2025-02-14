@@ -103,6 +103,8 @@ Below are the problem sets included in this repository:
 84.    [RemoveAllOccurence.java](RemoveAllOccurence.java) Solutions to calculate the removal of all occurrences of a string.
 85.    [DivideTwoIntegers.java](DivideTwoIntegers.java) Solutions to calculate the divide two integers.
 86.    [EditDistance.java](EditDistance.java) Solutions to calculate the edit distance.
+87.    [ProductLastKNumbers.java](ProductLastKNumbers.java) Solutions to calculate the product of the last k numbers.
+
 
 
 
