@@ -104,6 +104,7 @@ Below are the problem sets included in this repository:
 85.    [DivideTwoIntegers.java](DivideTwoIntegers.java) Solutions to calculate the divide two integers.
 86.    [EditDistance.java](EditDistance.java) Solutions to calculate the edit distance.
 87.    [ProductLastKNumbers.java](ProductLastKNumbers.java) Solutions to calculate the product of the last k numbers.
+88.    [AddBinary.java](AddBinary.java) Solutions to calculate the add binary strings.
 
 
 
