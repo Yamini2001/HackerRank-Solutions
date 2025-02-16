@@ -105,6 +105,8 @@ Below are the problem sets included in this repository:
 86.    [EditDistance.java](EditDistance.java) Solutions to calculate the edit distance.
 87.    [ProductLastKNumbers.java](ProductLastKNumbers.java) Solutions to calculate the product of the last k numbers.
 88.    [AddBinary.java](AddBinary.java) Solutions to calculate the add binary strings.
+89.    [SimplifyPath.java](SimplifyPath.java) Solutions to calculate the simplify path.
+
 
 
 
