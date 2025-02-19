@@ -84,7 +84,7 @@ Below are the problem sets included in this repository:
 65.   [CountServers.java](CountServers.java) Solutions to calculate the count servers that communicate.
 66.   [EventualSafeStates.java](EventualSafeStates.java) Solutions to calculate the eventual safe states.
 67.    [SortColors.java](SortColors.java) Solutions to calculate the sort colors.
-68.     [SetMatrixZeroes.java](SetMatrixZeroes.java) Solutions to calculate the set matrix zeroes.
+68. [SetMatrixZeroes.java](SetMatrixZeroes.java) Solutions to calculate the set matrix zeroes.
 69.    [CourseSchedule.java](CourseSchedule.java) Solutions to calculate the course schedule.
 70.   [MinimumNumberFish.java](MinimumNumberFish.java) Solutions to calculate the minimum number of fish in a grid.
 71.   [RedundantConnection.java](RedundantConnection.java) Solutions to calculate the redundant connection.
@@ -108,9 +108,8 @@ Below are the problem sets included in this repository:
 89.    [SimplifyPath.java](SimplifyPath.java) Solutions to calculate the simplify path.
 90.    [LetterTilePossibility.java](LetterTilePossibility.java) Solutions to calculate the letter tile possibility.
 91.   [InsertInterval.java](InsertInterval.java) Solutions to calculate the insert interval.
+92.    [SymmetricTree.java](SymmetricTree.java) Solutions to calculate the symmetric tree.
  
-
-
 
 
 
