@@ -107,6 +107,7 @@ Below are the problem sets included in this repository:
 88.    [AddBinary.java](AddBinary.java) Solutions to calculate the add binary strings.
 89.    [SimplifyPath.java](SimplifyPath.java) Solutions to calculate the simplify path.
 90.    [LetterTilePossibility.java](LetterTilePossibility.java) Solutions to calculate the letter tile possibility.
+91.   [InsertInterval.java](InsertInterval.java) Solutions to calculate the insert interval.
  
 
 
