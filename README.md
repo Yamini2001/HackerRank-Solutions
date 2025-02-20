@@ -109,7 +109,7 @@ Below are the problem sets included in this repository:
 90.    [LetterTilePossibility.java](LetterTilePossibility.java) Solutions to calculate the letter tile possibility.
 91.   [InsertInterval.java](InsertInterval.java) Solutions to calculate the insert interval.
 92.    [SymmetricTree.java](SymmetricTree.java) Solutions to calculate the symmetric tree.
- 
+93.    [UniqueBinaryString.java](UniqueBinaryString.java) Solutions to calculate the unique binary string.
 
 
 
