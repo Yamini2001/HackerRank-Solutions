@@ -110,6 +110,7 @@ Below are the problem sets included in this repository:
 91.   [InsertInterval.java](InsertInterval.java) Solutions to calculate the insert interval.
 92.    [SymmetricTree.java](SymmetricTree.java) Solutions to calculate the symmetric tree.
 93.    [UniqueBinaryString.java](UniqueBinaryString.java) Solutions to calculate the unique binary string.
+94.    [GrayCode.java](GrayCode.java) Solutions to calculate the gray code.
 
 
 
