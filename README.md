@@ -111,6 +111,8 @@ Below are the problem sets included in this repository:
 92.    [SymmetricTree.java](SymmetricTree.java) Solutions to calculate the symmetric tree.
 93.    [UniqueBinaryString.java](UniqueBinaryString.java) Solutions to calculate the unique binary string.
 94.    [GrayCode.java](GrayCode.java) Solutions to calculate the gray code.
+95.     [Triangle.java](Triangle.java) Solutions to calculate the triangle.
+
 
 
 
