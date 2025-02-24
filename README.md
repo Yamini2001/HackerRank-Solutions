@@ -113,6 +113,8 @@ Below are the problem sets included in this repository:
 94.    [GrayCode.java](GrayCode.java) Solutions to calculate the gray code.
 95. [Triangle.java](Triangle.java) Solutions to calculate the triangle.
 96.    [SameTree.java](SameTree.java) Solutions to calculate the same tree.
+97.    [ReverseLinkedList.java](ReverseLinkedList.java) Solutions to calculate the reverse linked list.
+
 
 
 
