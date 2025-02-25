@@ -114,6 +114,7 @@ Below are the problem sets included in this repository:
 95. [Triangle.java](Triangle.java) Solutions to calculate the triangle.
 96.    [SameTree.java](SameTree.java) Solutions to calculate the same tree.
 97.    [ReverseLinkedList.java](ReverseLinkedList.java) Solutions to calculate the reverse linked list.
+98.    [NoOfSubArrayWithOddSum.java](NoOfSubArrayWithOddSum.java) Solutions to calculate the subarray number with odd sum.
 
 
 
