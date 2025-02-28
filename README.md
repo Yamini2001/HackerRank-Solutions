@@ -116,6 +116,8 @@ Below are the problem sets included in this repository:
 97.    [ReverseLinkedList.java](ReverseLinkedList.java) Solutions to calculate the reverse linked list.
 98.    [NoOfSubArrayWithOddSum.java](NoOfSubArrayWithOddSum.java) Solutions to calculate the subarray number with odd sum.
 99.    [CopyListRandomPointer.java](CopyListRandomPointer.java) Solutions to calculate the copy list of random pointer.
+100.    [ContainDuplicate.java](ContainDuplicate.java) Solutions to calculate contains duplicate.
+
 
 
 
