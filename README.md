@@ -117,6 +117,10 @@ Below are the problem sets included in this repository:
 98.    [NoOfSubArrayWithOddSum.java](NoOfSubArrayWithOddSum.java) Solutions to calculate the subarray number with odd sum.
 99.    [CopyListRandomPointer.java](CopyListRandomPointer.java) Solutions to calculate the copy list of random pointer.
 100.    [ContainDuplicate.java](ContainDuplicate.java) Solutions to calculate contains duplicate.
+101.    [OddEvenLinkedList.java](OddEvenLinkedList.java) Solutions to calculate the odd-even linked list.
+102.   [ApplyOperationToArray.java](ApplyOperationToArray.java) Solutions to calculate and apply the operations to an array.
+
+
 
 
 
