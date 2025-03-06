@@ -122,6 +122,8 @@ Below are the problem sets included in this repository:
 103.   [RecoverBST.java](RecoverBST.java) Solutions to calculate the recover binary search tree.
 104.   [PartitionArray.java](PartitionArray.java) Solutions to calculate the partition array according to the given pivot.
 105.   [ValidSudoko.java](ValidSudoko.java) Solutions to calculate the valid sudoku.
+106.   [MissingAndRepeatedValue.java](MissingAndRepeatedValue.java) Solutions to calculate the missing and repeated values.
+
 
 
 
