@@ -124,6 +124,8 @@ Below are the problem sets included in this repository:
 105.   [ValidSudoko.java](ValidSudoko.java) Solutions to calculate the valid sudoku.
 106.   [MissingAndRepeatedValue.java](MissingAndRepeatedValue.java) Solutions to calculate the missing and repeated values.
 107.   [ClosestPrimeNumber.java](ClosestPrimeNumber.java) Solutions to calculate the closest prime numbers in range.
+108.   [SwapNodes.java](SwapNodes.java) Solutions to calculate the swap nodes in pairs.
+
 
 
 
