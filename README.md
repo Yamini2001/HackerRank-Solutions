@@ -125,6 +125,9 @@ Below are the problem sets included in this repository:
 106.   [MissingAndRepeatedValue.java](MissingAndRepeatedValue.java) Solutions to calculate the missing and repeated values.
 107.   [ClosestPrimeNumber.java](ClosestPrimeNumber.java) Solutions to calculate the closest prime numbers in range.
 108.   [SwapNodes.java](SwapNodes.java) Solutions to calculate the swap nodes in pairs.
+109.    [AlternatingGroups.java](AlternatingGroups.java) Solutions to calculate the alternating groups.
+
+
 
 
 
