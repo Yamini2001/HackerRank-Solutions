@@ -127,6 +127,8 @@ Below are the problem sets included in this repository:
 108.   [SwapNodes.java](SwapNodes.java) Solutions to calculate the swap nodes in pairs.
 109.    [AlternatingGroups.java](AlternatingGroups.java) Solutions to calculate the alternating groups.
 110.    [MinimumPathSum.java](MinimumPathSum.java) Solutions to calculate the minimum path sum.
+111.    [GasStation.java](GasStation.java) Solutions to calculate the gas station.
+
 
 
 
