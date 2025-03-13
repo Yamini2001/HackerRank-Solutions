@@ -128,6 +128,12 @@ Below are the problem sets included in this repository:
 109.    [AlternatingGroups.java](AlternatingGroups.java) Solutions to calculate the alternating groups.
 110.    [MinimumPathSum.java](MinimumPathSum.java) Solutions to calculate the minimum path sum.
 111.    [GasStation.java](GasStation.java) Solutions to calculate the gas station.
+112.    [PathSum.java](PathSum.java) Solutions to calculate the path sum.
+113.    [ZeroArrayTransformation.java](ZeroArrayTransformation.java) Solutions to calculate the zero array transformation.
+
+
+
+
 
 
 
