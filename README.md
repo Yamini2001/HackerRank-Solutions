@@ -130,6 +130,9 @@ Below are the problem sets included in this repository:
 111.    [GasStation.java](GasStation.java) Solutions to calculate the gas station.
 112.    [PathSum.java](PathSum.java) Solutions to calculate the path sum.
 113.    [ZeroArrayTransformation.java](ZeroArrayTransformation.java) Solutions to calculate the zero array transformation.
+114.   [MaximumCandies.java](MaximumCandies.java) Solutions to calculate the maximum candies allocated to K children.
+
+
 
 
 
