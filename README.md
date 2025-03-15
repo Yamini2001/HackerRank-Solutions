@@ -131,6 +131,8 @@ Below are the problem sets included in this repository:
 112.    [PathSum.java](PathSum.java) Solutions to calculate the path sum.
 113.    [ZeroArrayTransformation.java](ZeroArrayTransformation.java) Solutions to calculate the zero array transformation.
 114.   [MaximumCandies.java](MaximumCandies.java) Solutions to calculate the maximum candies allocated to K children.
+115.   [HouseRobber.java](HouseRobber.java) Solutions to calculate the house robber.
+
 
 
 
