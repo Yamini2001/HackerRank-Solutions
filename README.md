@@ -134,6 +134,8 @@ Below are the problem sets included in this repository:
 115.   [HouseRobber.java](HouseRobber.java) Solutions to calculate the house robber.
 116.   [MinimumTimeRepairCars.java](MinimumTimeRepairCars.java) Solutions to calculate the minimum time to repair cars.
 117.   [DivideArray.java](DivideArray.java) Solutions to calculate the divide array into equal pairs.
+118.   [LongestNiceSubArray.java](LongestNiceSubArray.java) Solutions to calculate the longest nice subarray.
+
 
 
 
