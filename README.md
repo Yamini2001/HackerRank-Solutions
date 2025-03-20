@@ -136,6 +136,7 @@ Below are the problem sets included in this repository:
 117.   [DivideArray.java](DivideArray.java) Solutions to calculate the divide array into equal pairs.
 118.   [LongestNiceSubArray.java](LongestNiceSubArray.java) Solutions to calculate the longest nice subarray.
 119.   [ValidAnagram.java](ValidAnagram.java) Solutions to calculate the valid anagram.
+120.    [InsertionSort.java](InsertionSort.java) Solutions to calculate the insertion sort list.
 
 
 
