@@ -137,6 +137,9 @@ Below are the problem sets included in this repository:
 118.   [LongestNiceSubArray.java](LongestNiceSubArray.java) Solutions to calculate the longest nice subarray.
 119.   [ValidAnagram.java](ValidAnagram.java) Solutions to calculate the valid anagram.
 120.    [RestoreIPAddress.java](RestoreIPAddress.java) Solutions to calculate the restore IP Addresses.
+121.   [AllPossibleRecipe.java](AllPossibleRecipe.java) Solutions calculate all possible recipes from given supplies.
+122.   [NQueens.java](NQueens.java) Solutions calculate the N queens.
+
 
 
 
