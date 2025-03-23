@@ -139,6 +139,7 @@ Below are the problem sets included in this repository:
 120.    [RestoreIPAddress.java](RestoreIPAddress.java) Solutions to calculate the restore IP Addresses.
 121.   [AllPossibleRecipe.java](AllPossibleRecipe.java) Solutions calculate all possible recipes from given supplies.
 122.   [NQueens.java](NQueens.java) Solutions calculate the N queens.
+123.   [NoOfWaysToArriveToDestination.java](NoOfWaysToArriveToDestination.java) Solutions calculate the number of ways to arrive at destination.
 
 
 
