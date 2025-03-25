@@ -100,7 +100,7 @@ Below are the problem sets included in this repository:
 81.    [NoContainerSystem.java](NoContainerSystem.java) Solutions to calculate the design a number container system.
 82.    [CountBadPairs.java](CountBadPairs.java) Solutions to calculate the count number of bad pairs.
 83.    [ClearDigits.java](ClearDigits.java) Solutions to calculate the clear digits.
-84.    [RemoveAllOccurence.java](RemoveAllOccurence.java) Solutions to calculate the removal of all occurrences of a string.
+84.    [RemoveAllOccurrence.java](RemoveAllOccurrence.java) Solutions to calculate the removal of all occurrences of a string.
 85.    [DivideTwoIntegers.java](DivideTwoIntegers.java) Solutions to calculate the divide two integers.
 86.    [EditDistance.java](EditDistance.java) Solutions to calculate the edit distance.
 87.    [ProductLastKNumbers.java](ProductLastKNumbers.java) Solutions to calculate the product of the last k numbers.
@@ -141,6 +141,9 @@ Below are the problem sets included in this repository:
 122.   [NQueens.java](NQueens.java) Solutions calculate the N queens.
 123.   [NoOfWaysToArriveToDestination.java](NoOfWaysToArriveToDestination.java) Solutions calculate the number of ways to arrive at the destination.
 124.   [CountDays.java](CountDays.java) Solutions calculate the count days without meetings.
+125.    [Search2DMatrix.java](Search2DMatrix.java) Solutions calculate the search a 2D matrix.
+
+
 
 
 
