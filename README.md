@@ -142,6 +142,8 @@ Below are the problem sets included in this repository:
 123.   [NoOfWaysToArriveToDestination.java](NoOfWaysToArriveToDestination.java) Solutions calculate the number of ways to arrive at the destination.
 124.   [CountDays.java](CountDays.java) Solutions calculate the count days without meetings.
 125.    [Search2DMatrix.java](Search2DMatrix.java) Solutions calculate the search a 2D matrix.
+126.   [PartitionList.java](PartitionList.java) Solutions calculate the partition list.
+
 
 
 
