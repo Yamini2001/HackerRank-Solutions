@@ -143,6 +143,9 @@ Below are the problem sets included in this repository:
 124.   [CountDays.java](CountDays.java) Solutions calculate the count days without meetings.
 125.    [Search2DMatrix.java](Search2DMatrix.java) Solutions calculate the search a 2D matrix.
 126.   [PartitionList.java](PartitionList.java) Solutions calculate the partition list.
+127.   [MinimumIndex.java](MinimumIndex.java) Solutions calculate the minimum index of a valid split.
+
+
 
 
 
