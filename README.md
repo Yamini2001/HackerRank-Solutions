@@ -136,14 +136,15 @@ Below are the problem sets included in this repository:
 117.   [DivideArray.java](DivideArray.java) Solutions to calculate the divide array into equal pairs.
 118.   [LongestNiceSubArray.java](LongestNiceSubArray.java) Solutions to calculate the longest nice subarray.
 119.   [ValidAnagram.java](ValidAnagram.java) Solutions to calculate the valid anagram.
-120.    [RestoreIPAddress.java](RestoreIPAddress.java) Solutions to calculate the restore IP Addresses.
+120.    [RestoreIPAddress.java](RestoreIPAddress.java) Solutions to calculate the restored IP Addresses.
 121.   [AllPossibleRecipe.java](AllPossibleRecipe.java) Solutions calculate all possible recipes from given supplies.
 122.   [NQueens.java](NQueens.java) Solutions calculate the N queens.
 123.   [NoOfWaysToArriveToDestination.java](NoOfWaysToArriveToDestination.java) Solutions calculate the number of ways to arrive at the destination.
-124.   [CountDays.java](CountDays.java) Solutions calculate the count days without meetings.
+124.   [CountDays.java](CountDays.java) Solutions calculate the number of days without meetings.
 125.    [Search2DMatrix.java](Search2DMatrix.java) Solutions calculate the search a 2D matrix.
 126.   [PartitionList.java](PartitionList.java) Solutions calculate the partition list.
 127.   [MinimumIndex.java](MinimumIndex.java) Solutions calculate the minimum index of a valid split.
+128.   [DecodeWays.java](DecodeWays.java) Solutions calculate the decode ways.
 
 
 
