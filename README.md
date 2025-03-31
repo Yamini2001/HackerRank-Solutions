@@ -146,6 +146,11 @@ Below are the problem sets included in this repository:
 127.   [MinimumIndex.java](MinimumIndex.java) Solutions calculate the minimum index of a valid split.
 128.   [DecodeWays.java](DecodeWays.java) Solutions calculate the decode ways.
 129.   [ApplyOperations.java](ApplyOperations.java) Solutions calculate the apply operations to maximize the score.
+130.   [PartitionLabels.java](PartitionLabels.java) Solutions calculate the partition labels.
+131.    [PutMarbleInBags.java](PutMarbleInBags.java) Solutions calculate the number of marbles in bags.
+
+
+
 
 
 
