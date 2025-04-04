@@ -151,6 +151,8 @@ Below are the problem sets included in this repository:
 132.    [SolvingQuestions.java](SolvingQuestions.java) Solutions calculate the solving questions with brainpower.
 133.    [InterleavingString.java](InterleavingString.java) Solutions calculate the interleaving string.
 134.   [MaximumValueOfTriplet.java](MaximumValueOfTriplet.java) Solutions calculate the maximum value of an ordered triplet.
+135.   [ValidateBST.java](ValidateBST.java) Solutions calculate the validity of a binary search tree.
+
 
 
 
