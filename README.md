@@ -154,6 +154,11 @@ Below are the problem sets included in this repository:
 135.   [ValidateBST.java](ValidateBST.java) Solutions calculate the validity of a binary search tree.
 136.    [SubsetXORTotal.java](SubsetXORTotal.java) Solutions calculate the sum of all subset XOR Totals.
 137.    [LargestDivisbleSubset.java](LargestDivisbleSubset.java) Solutions calculate the largest divisible subset.
+138.    [PartitionEqualSubsetSum.java](PartitionEqualSubsetSum.java) Solutions calculate the partition equal subset sum.
+139.    [MinimumOperations.java](MinimumOperations.java) Solutions calculate the minimum number of operations to make elements in array distinct.
+
+
+
 
 
 
