@@ -158,7 +158,11 @@ Below are the problem sets included in this repository:
 139.    [MinimumOperations.java](MinimumOperations.java) Solutions calculate the minimum number of operations to make elements in the array distinct.
 140.    [SurroundedRegions.java](SurroundedRegions.java) Solutions calculate the surrounded regions.
 141.    [CountNoPowerfulIntegers.java](CountNoPowerfulIntegers.java) Solutions calculate the number of powerful integers.
-142.    [CountSymmtericInteger.java](CountSymmtericInteger.java) Solutions calculate the count symmetric integers.
+142.    [CountSymmtericInteger.java](CountSymmtericInteger.java) Solutions calculate the count of symmetric integers.
+143.    [CountGoodInteger.java](CountGoodInteger.java) Solutions calculate the count of good integers.
+144.    [CountGoodNumbers.java](CountGoodNumbers.java) Solutions calculate the count of good numbers.
+
+
 
 
 
